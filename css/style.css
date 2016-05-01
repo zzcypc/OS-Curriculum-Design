@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #eee;
+}
+#mytitle{
+	font-family: "微软雅黑";
+}
+.myparagraph{
+	text-indent:2em;
+}
+.myform{
+	padding-bottom: 9px;
+	margin-bottom: 20px;
+}
+.text{
+	float: right;
+}
